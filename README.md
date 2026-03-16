@@ -1,16 +1,19 @@
 ## Hi there 👋
+# 👋 Olá, eu sou a Leticia Marques
 
-<!--
-**leticiamarquesss/leticiamarquesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Iniciante em programação  
+🐍 Estudando Python  
+🚀 Em busca de aprender e evoluir todos os dias  
 
-Here are some ideas to get you started:
+## 📚 Atualmente aprendendo:
+- Python básico
+- Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivos:
+- Criar meus primeiros projetos
+- Evoluir como desenvolvedor
+
+## 📫 Contato:
+linkedin: https://www.linkedin.com/in/leticiamcunha10/
+
+✨ Obrigado por visitar meu perfil!
