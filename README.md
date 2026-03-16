@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Olá, eu sou a Leticia Marques
 
 💻 Iniciante em programação  
@@ -15,5 +15,6 @@
 
 ## 📫 Contato:
 linkedin: https://www.linkedin.com/in/leticiamcunha10/
+email: leticiacunha615@gmail.com
 
 ✨ Obrigado por visitar meu perfil!
